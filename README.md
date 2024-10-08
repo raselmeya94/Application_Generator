@@ -29,7 +29,7 @@ Verify that you have either `pip` (the default package manager for Python) or `c
 ### Clone Git repository:
 
 ```bash
-    git clone https://github.com/raselmeya94/llm_web_application_project.git
+    git clone https://github.com/raselmeya94/Application_Generator.git
 ```
 
 
