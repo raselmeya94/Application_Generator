@@ -1,4 +1,4 @@
-# Project Deployment (Certificate Classification with Info Extractor)
+# Project Deployment (Application Generator)
 
 ## Prerequisites
 
